@@ -1,0 +1,14 @@
+       Employee_ID First_Name  ... Performance_Score  Remote_Work
+count         1020       1020  ...              1020         1020
+unique        1020          8  ...                 4            2
+top        EMP1000      Frank  ...              Good         True
+freq             1        142  ...               270          513
+mean           NaN        NaN  ...               NaN          NaN
+std            NaN        NaN  ...               NaN          NaN
+min            NaN        NaN  ...               NaN          NaN
+25%            NaN        NaN  ...               NaN          NaN
+50%            NaN        NaN  ...               NaN          NaN
+75%            NaN        NaN  ...               NaN          NaN
+max            NaN        NaN  ...               NaN          NaN
+
+[11 rows x 12 columns]
